@@ -1,0 +1,1 @@
+Nossos arquivos de imagem, pdf, svg e etc.
