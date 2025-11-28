@@ -11,15 +11,15 @@ O propósito é **difundir conhecimento, fortalecer a comunidade e fomentar o ec
 ---
 
 ## 📅 Próximo evento
-- **Data:** 21–23 de novembro de 2025  
-- **Local:** Tecnopuc – Auditório 01, Av. Ipiranga, 6681, Porto Alegre – RS  
+- **Data:** 18 a 21 de abril de 2026.
+- **Local:** SENAI - Londrina-PR (qual deles ainda a ser definido)  
 - **Formatos:**  
   - Palestras (20–40 min)  
   - Tutoriais (180 ou 360 min)  
   - Lightning Talks (5 min)  
 - **Chamada para Trabalhos (CfP):**  
-  - Submissões até **5 de outubro de 2025**  
-  - Resultados até **15 de outubro de 2025**  
+  - Submissões até **a definir**  
+  - Resultados até **a definir**  
 - **Contato:** [sul@python.org.br](mailto:sul@python.org.br)
 
 ---
